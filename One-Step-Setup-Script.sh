@@ -7,7 +7,7 @@ echo "sddm sddm/default-display-manager select /usr/bin/sddm" | sudo debconf-set
 sudo add-apt-repository -y ppa:kubuntu-ppa/experimental
 
 # Add popdev:KDE repository
-sudo apt-manage add popdev:KDE -y
+sudo apt-manage add popdev:KDE
 
 # Update package list
 sudo apt update -y
