@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Set debconf to automatically select SDDM
-echo "sddm sddm/default-display-manager select /usr/bin/sddm" | sudo debconf-set-selections
-
 # Add Kubuntu 22.04 experimental PPA
 sudo add-apt-repository -y ppa:kubuntu-ppa/experimental
 
