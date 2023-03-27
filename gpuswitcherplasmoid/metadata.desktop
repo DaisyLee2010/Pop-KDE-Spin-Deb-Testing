@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=System76 GPU Switcher
+Comment=GPU Switcher
+Icon=myplasmoid
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+
