@@ -1,0 +1,5 @@
+Package: add-kubuntu-experimental-ppa
+Version: 1.0
+Maintainer: Lee Courington
+Architecture: amd64
+Description: Adds the Kubuntu experimental repo to pop 22.04
